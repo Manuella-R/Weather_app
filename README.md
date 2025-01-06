@@ -32,7 +32,7 @@ pip install requests
 ## How to Run
 1. Run the script using Python:
     ```bash
-    python weather_app.py
+    python gui_weather_app.py
     ```
 2. The Tkinter window will pop up, allowing you to enter a city name and retrieve weather information.
 
