@@ -5,8 +5,13 @@ This is a simple weather application built using Python's Tkinter library for th
 
 ## Features
 - **City Search**: Input the city name to fetch current weather data.
+![Screenshot 2025-01-07 004331](https://github.com/user-attachments/assets/0801337e-4396-4821-9df4-5a2a4fc1d806)
+
 - **Weather Information**: Displays weather description, temperature, "feels like" temperature, and humidity.
+![Screenshot 2025-01-07 004419](https://github.com/user-attachments/assets/d2e949bc-a55e-4235-a40e-1e3f37bd095c)
+
 - **Error Handling**: Alerts the user if the city is not found or if there is an issue with the data retrieval.
+![Screenshot 2025-01-07 004451](https://github.com/user-attachments/assets/72dc855b-fa33-4f26-838a-2fa31921acc6)
 
 ## Requirements
 - Python 3.x
